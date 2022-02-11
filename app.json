@@ -2,8 +2,8 @@
   "name": "Telegram Streamer File",
   "description": "Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions",
   "website": "https://t.me/s/TopTm",
-  "repository": "https://github.com/mdreza-n/stream-cloud",
-  "logo": "https://s6.uupload.ir/files/1_ed5w.jpg",
+  "repository": "https://github.com/mdreza-n/File2Link",
+  "logo": "https://s6.uupload.ir/files/11_9oi.png",
   "env": {
     "api_id": {
       "description": "api_id Telegram to develop a robot to receive my.telegram.org ",
@@ -26,7 +26,7 @@
       "value": ""
     },
     "token": {
-      "description": "Telegram robot token for launch from @BotFather",
+      "description": "Telegram robot token for launch .",
       "required": "true",
       "value": ""
     },
