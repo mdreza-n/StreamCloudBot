@@ -21,7 +21,7 @@ demo : [TopTmbot](https://t.me/toptmbot)
 
 * Heroku :
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mdreza-n/stream-cloud/tree/main)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
     `git clone https://github.com/mdreza-n/stream-cloud`
     
